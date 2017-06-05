@@ -1,7 +1,14 @@
 # Wood-state-the-variables
+
+--This code will greet the customer.
+
 print ("Hello! Here is the wood trading post. You can buy every wood possible at this station. Here are some examples: Spruce wood, Oak wood, Birch wood, and any other wood with planks. To get items such as wood pickaxes or hoes, refer to computer #6.")
  
+ --This tells the person what to do to be able to trade.
+ 
 print ("Please read the following phrases that will tell you the value of each item. You can spit out the amount necessary and the turtle will do the work.")
+ 
+ --This is where I state how much each product is worth. For now I only have 3 statements because of time.
  
 print ("The cost of any wood plank is 16 cobblestone.")
  
